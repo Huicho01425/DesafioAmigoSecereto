@@ -33,8 +33,10 @@ Este es un proyecto simple que permite a los usuarios organizar un sorteo de "Am
 
 ## Instalación
 
-No es necesaria ninguna instalación especial. Simplemente abre el archivo `index.html` en tu navegador para comenzar a usar la aplicación.
+No es necesaria ninguna instalación especial. Simplemente abre el archivo `index.html` en tu navegador para comenzar a usar la aplicación o visita el siguiente link
 
+## Publicación 
 
+Puedes probar una demo en vivo [Amigo Secreto](https://huicho01425.github.io/DesafioAmigoSecreto/)
 
 ¡Gracias por usar Amigo Secreto!.
